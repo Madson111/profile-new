@@ -1,0 +1,77 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+/* 100% 16px */
+/*     90px */
+h1 {
+  color:#66BFBF;
+  line-height: 2;
+  font-size: 5.625em;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  /* 1rem 16px */
+  font-weight: normal;
+  color:#66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+a{
+  color:#11999E;
+}
+.top-container{
+  background-color: #E8F9FD;
+  position: relative;
+  padding-top: 100px;
+}
+.mid-container{
+
+}
+.bottom-container{
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  top: 200px;
+  left: 500px
+}
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  left:900px;
+}
+
+.profile{
+  border-radius: 50%;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height:2;
+}
+.music-icon{
+  width:25%;
+  float: left;
+  margin-right: 50px;
+}
+.football{
+  width:25%;
+  float: right;
+  margin-right: 50px;
+}
+.football-paragraph{
+  
+}
